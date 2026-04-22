@@ -1,14 +1,38 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Willrich</h1>
-<h3 align="center">Studying full-stack Java development with JSF from Brasil</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzRyeGZ3bmZqZzRyeGZ3bmZqZzRyeGZ3bmZqZzR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  alt="Coding Gif" />
+  <h1>Hi 👋, I'm Rodrigo Willrich</h1>
+  <h3>Full-stack Java Developer in training 🇧🇷</h3>
+</div>
 
-- 🌱 I’m currently learning **Java, JavaScript, JSF, JPA Hibernate and Mysql**
+<hr>
 
-- 📫 How to reach me **rodrigo@linkedby.us**
+### 🚀 Sobre Mim
+- 🌱 Atualmente mergulhado em **Java, JSF e JPA/Hibernate**.
+- 🛠️ Construindo aplicações robustas com foco em persistência de dados (**MySQL**).
+- 📫 Vamos conversar? **rodrigo@linkedby.us**
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Jakarta_EE-0073B1?style=for-the-badge&logo=jakartaee&logoColor=white" alt="JSF/Jakarta" />
+</div>
+
+<br>
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USER-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<hr>
+
+### 🤝 Conecte-se comigo:
 <p align="left">
-<a href="https://linkedin.com/in/rodrigo oliveira willrich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo oliveira willrich" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rodrigo-oliveira-willrich" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
