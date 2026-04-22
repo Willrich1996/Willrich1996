@@ -9,7 +9,7 @@
 ### 🚀 Sobre Mim
 - 🌱 Atualmente mergulhado em **Java, JSF e JPA/Hibernate**.
 - 🛠️ Construindo aplicações robustas com foco em persistência de dados (**MySQL**).
-- 📫 Vamos conversar? **rodrigo@linkedby.us**
+- 📫 Vamos conversar? **rodrigowillrich2@gmail.com**
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="left">
